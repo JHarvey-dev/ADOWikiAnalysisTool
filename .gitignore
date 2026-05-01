@@ -1,0 +1,15 @@
+# Generated output
+WikiStats.csv
+WikiStats*.csv
+
+# PowerShell/editor temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# OS/editor artifacts
+.DS_Store
+Thumbs.db
+.vscode/
