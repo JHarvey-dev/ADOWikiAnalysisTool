@@ -1,5 +1,7 @@
 ## ADO Wiki Stats
 
+![Status: Alpha](https://img.shields.io/badge/status-alpha-orange) [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+
 A PowerShell tool that queries an **Azure DevOps (ADO)** wiki and exports per-page **staleness** and **usage** statistics to a CSV file.
 
 ---
