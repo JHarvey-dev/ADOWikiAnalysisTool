@@ -1,8 +1,3 @@
----
-title: ADO Wiki Stats
-description: PowerShell script for exporting Azure DevOps wiki staleness and usage statistics to CSV.
----
-
 ## ADO Wiki Stats
 
 A PowerShell tool that queries an **Azure DevOps (ADO)** wiki and exports per-page **staleness** and **usage** statistics to a CSV file.
